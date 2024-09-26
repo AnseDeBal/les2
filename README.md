@@ -17,3 +17,9 @@ ik ook
 
 
 enter enter enter 
+j'aime 
+tu aimes 
+il aime
+nous aimons 
+vous amez
+ils ament 
