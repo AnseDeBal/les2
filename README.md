@@ -12,6 +12,7 @@ jo maat
 ik wil naar huis aub 
 dit is moeilijk
 ik ook
+<<<<<<< HEAD
 
 
 
@@ -23,3 +24,8 @@ il aime
 nous aimons 
 vous amez
 ils ament 
+=======
+dit is mijn branche
+nog een stuk tekst
+ik wil slapen
+>>>>>>> whatever
