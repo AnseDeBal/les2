@@ -12,3 +12,8 @@ jo maat
 ik wil naar huis aub 
 dit is moeilijk
 ik ook
+
+
+
+
+enter enter enter 
